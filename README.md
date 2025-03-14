@@ -1,2 +1,5 @@
-# WRO_FutureEngineers_GameNotOver
-This is a the protocoll for the WRO Future Engineers Challenge. Provided by GameNotOver. 
+# Contents
+# Materials
+This list contains all the materials that were used to build our Robot. This includes everything:
+1. Arduino Potenta
+2. 
