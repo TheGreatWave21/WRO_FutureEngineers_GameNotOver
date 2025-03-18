@@ -1,4 +1,4 @@
-
+[IMG_5112.pdf](https://github.com/user-attachments/files/19326541/IMG_5112.pdf)
 ***
 This repository is the official repository for the German Team GameNotOver, competing in the Future Engineers Challenge. All of the code, documentation and progress is written down here. 
 ***
@@ -46,7 +46,7 @@ This list contains all the materials that were used to build our Robot. This inc
 
 # Photos and Videos
 
---to be continued
+
 
 # Software
 
@@ -55,6 +55,13 @@ This list contains all the materials that were used to build our Robot. This inc
 # Programming language
 
 --to be continued
+[IMG_5110.pdf](https://github.com/user-attachments/files/19326566/IMG_5110.pdf)
+[IMG_5111.pdf](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
+
+[IMG_5109.pdf](https://github.com/user-attachments/files/19326545/IMG_5109.pdf)
+
+[IMG_5108.pdf](https://github.com/user-attachments/files/19326527/IMG_5108.pdf)
+[IMG_5112.pdf](https://github.com/user-attachments/files/19326568/IMG_5112.pdf)
 
 # The Coding
 
