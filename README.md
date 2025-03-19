@@ -57,13 +57,20 @@ This list contains all the materials that were used to build our Robot. This inc
 --to be continued
 ![Base of the car in the 3D printer](https://github.com/user-attachments/files/19326566/IMG_5110.pdf)
 
-![""""""""](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
+![3D printed](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
+
+![3D printed](https://github.com/user-attachments/files/19326568/IMG_5112.pdf)
+
+You can see the base in the 3D printer.
 
 ![The base without the supportiner bars](https://github.com/user-attachments/files/19326545/IMG_5109.pdf)
 
+You can see the unfinished base without the "sticks", which are going to give stability to the whole vehicle and hold our control system. (arduino potenta)
+
 ![Design software](https://github.com/user-attachments/files/19326527/IMG_5108.pdf)
 
-![""""""""](https://github.com/user-attachments/files/19326568/IMG_5112.pdf)
+Here you can see the robot in the 3D printing design software. This part will only be used for the base.
+
 
 # The Coding
 
