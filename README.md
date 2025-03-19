@@ -1,4 +1,4 @@
-[IMG_5112.pdf](https://github.com/user-attachments/files/19326541/IMG_5112.pdf)
+
 ***
 This repository is the official repository for the German Team GameNotOver, competing in the Future Engineers Challenge. All of the code, documentation and progress is written down here. 
 ***
