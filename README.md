@@ -55,13 +55,15 @@ This list contains all the materials that were used to build our Robot. This inc
 # Programming language
 
 --to be continued
-[IMG_5110.pdf](https://github.com/user-attachments/files/19326566/IMG_5110.pdf)
-[IMG_5111.pdf](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
+![Base of the car in the 3D printer](https://github.com/user-attachments/files/19326566/IMG_5110.pdf)
 
-[IMG_5109.pdf](https://github.com/user-attachments/files/19326545/IMG_5109.pdf)
+![""""""""](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
 
-[IMG_5108.pdf](https://github.com/user-attachments/files/19326527/IMG_5108.pdf)
-[IMG_5112.pdf](https://github.com/user-attachments/files/19326568/IMG_5112.pdf)
+![The base without the supportiner bars](https://github.com/user-attachments/files/19326545/IMG_5109.pdf)
+
+![Design software](https://github.com/user-attachments/files/19326527/IMG_5108.pdf)
+
+![""""""""](https://github.com/user-attachments/files/19326568/IMG_5112.pdf)
 
 # The Coding
 
