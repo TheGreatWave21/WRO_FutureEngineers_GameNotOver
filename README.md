@@ -46,15 +46,6 @@ This list contains all the materials that were used to build our Robot. This inc
 
 # Photos and Videos
 
-
-
-# Software
-
---to be continued
-
-# Programming language
-
---to be continued
 ![Base of the car in the 3D printer](https://github.com/user-attachments/files/19326566/IMG_5110.pdf)
 
 ![3D printed](https://github.com/user-attachments/files/19326567/IMG_5111.pdf)
@@ -71,6 +62,13 @@ You can see the unfinished base without the "sticks", which are going to give st
 
 Here you can see the robot in the 3D printing design software. This part will only be used for the base.
 
+# Software
+
+--to be continued
+
+# Programming language
+
+--to be continued
 
 # The Coding
 
